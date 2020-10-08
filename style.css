@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 100%;
+}
+
+body {
+    padding: 10px;
+}
+
+html, body {
+    margin: 0px;
+    height: 100vh;
+}
